@@ -1,0 +1,4 @@
+Data Analyst Intern
+Required skills: Python, SQL, Excel, Power BI, Pandas, NumPy, Statistics, Data Analysis, Data Visualization.
+Responsibilities: clean data, build dashboards, analyze trends, communicate insights.
+Preferred: Git and problem solving.
